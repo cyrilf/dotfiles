@@ -1,0 +1,21 @@
+[user]
+	name  = cyrilf
+	email = cyrilf7x@gmail.com
+
+[core]
+  editor = subl
+
+[web]
+  browser = google-chrome
+
+[push]
+  default = matching
+
+[diff]
+  tool = meld
+
+[difftool]
+  prompt = false
+
+[alias]
+	lg = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
