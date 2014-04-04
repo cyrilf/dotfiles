@@ -1,0 +1,31 @@
+{
+	"caret_style": "phase",
+	"font_size": 9,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"draw_minimap_border": true,
+
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"*.pyc"
+	],
+	"ignored_packages":
+	[
+		"Vintage",
+		"Sublimall"
+	],
+
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"theme": "Phoenix Dark.sublime-theme",
+	"phoenix_color_expanded_folder": true,
+	"phoenix_color_red": true,
+	"phoenix_eighties": true,
+	"phoenix_highlight_current_tab": true,
+}
