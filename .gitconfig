@@ -3,7 +3,7 @@
 	email = cyrilf7x@gmail.com
 
 [core]
-  editor = subl
+  editor = subl -w
 
 [web]
   browser = google-chrome
