@@ -1,3 +1,8 @@
 {
-  "trim_trailing_white_space_on_save": false
+    "trim_trailing_white_space_on_save": false,
+    "draw_centered": true,
+    "draw_indent_guides": false,
+    "word_wrap": true,
+    "line_numbers": false,
+    "wrap_width": 80
 }
