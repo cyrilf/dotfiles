@@ -72,7 +72,7 @@ source ~/.git-flow-completion.zsh
 # Example: fuck you sublime
 function fuck() {
   if killall -9 -r "$2"; then
-    echo ; echo "(⌐■_■)=ε/̵͇̿̿/'̿'̿ ̿  $(echo "$2")"; echo
+    echo ; echo "(⌐■_■)=ε/̵͇̿̿/'̿'̿ ̿  $(echo "$2") is dead";
   fi
 }
 
