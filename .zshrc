@@ -68,6 +68,10 @@ source ~/.git-flow-completion.zsh
 
 # Customize to your needs...
 
+# Random
+source $HOME/.rvm/scripts/rvm
+alias rake='noglob rake'
+
 # Kill a process (usage: fuck you app_name)
 # Example: fuck you sublime
 function fuck() {
